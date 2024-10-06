@@ -1,4 +1,6 @@
-# Raspberry-Pi
+# Images for Raspberry Pi
+This image has been taken from a Raspberry Pi 3B. It's based on the 64-Bit version of Raspberry Pi OS Lite (For details check below)
+It should run on any Raspberry Pi newer/better than 3B.
 
 ### General Information:
 The punblished Images are only snapshots of my current used Unifi Network Server devices. So don't punish me if something doesn't work for you.
@@ -20,4 +22,4 @@ Used Software and Scripts:
 * Reference: https://ui.com/download
 ### MongoDB
 * Version: 7.0.14 [Compiled by AmazedMender16 (Glenn R.)]
-* Reference: https://www.mongodb.com/try/download/community-edition/releases 
+* Reference: https://www.mongodb.com/try/download/community-edition/releases
