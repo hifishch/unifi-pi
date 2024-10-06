@@ -5,7 +5,8 @@ UniFi Network Server as ready to use image with Webmin WebGUI for Appliance-Mana
 The punblished Images are only snapshots of my current used UniFi Network Server devices. So don't punish me if something doesn't work for you.
 
 ## Default Settings:
-* IP: DHCP, Fallback IP: 192.168.1.254/24 (OVF VMs don't support Fallback-IPs)
+* IP: DHCP, Fallback
+* IP: 192.168.1.254/24 (OVF VMs don't support Fallback-IPs)
 * Hostname: unifi
 * User: ubnt
 * Passwort: ubnt
