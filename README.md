@@ -1,8 +1,11 @@
 # UniFi Pi
-UniFi Network Server as ready to use image with Webmin WebGUI for Appliance-Management for Raspberry Pi and other Single Board Computers
+UniFi Network Server as ready to use image with Webmin WebGUI for Appliance-Management for Raspberry Pi, Single Board Computers and HyperVisors.
 
 ### General Information:
 The punblished Images are only snapshots of my current used UniFi Network Server devices. So don't punish me if something doesn't work for you.
+
+## Releases:
+You can find the current snapshots in the releases tab of this repo: https://github.com/hifishch/unifi-pi/releases
 
 ## Default Settings:
 * IP: DHCP
