@@ -4,8 +4,9 @@ It should run on any Raspberry Pi newer/better than 3B.
 
 ### General Information:
 The punblished Images are only snapshots of my current used Unifi Network Server devices. So don't punish me if something doesn't work for you.
-#### Current Snapshot:
+#### Current Release:
 The current Image (20241006) has been snapshoted on 6th of October 2024
+https://github.com/hifishch/unifi-pi/releases/tag/20241006
 
 ## Used Software and Scripts:
 Used Software and Scripts:
