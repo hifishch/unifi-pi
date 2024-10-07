@@ -4,6 +4,7 @@ UniFi Network Server as ready to use image with Webmin WebGUI for Appliance-Mana
 ## Releases:
 ### General Information:
 The punblished releases are only snapshots of my current used UniFi Network Server devices. So don't punish me if something doesn't work for you.
+### Downloads:
 You can find the current snapshots in the releases tab of this repo: https://github.com/hifishch/unifi-pi/releases
 
 ## Default Settings:
