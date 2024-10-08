@@ -9,7 +9,6 @@ You can find the current snapshots in the releases tab of this repo: https://git
 
 ## Default Settings:
 * IP: DHCP
-* Fallback IP: 192.168.1.254/24 (OVA VMs don't support Fallback-IPs)
 * Hostname: unifi
 * User: ubnt
 * Passwort: ubnt
