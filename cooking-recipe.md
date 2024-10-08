@@ -1,5 +1,5 @@
 # Cooking Recipe
-The following script snippeds were used to build the current Unifi Pi builds.
+The following script snippets were used to build the current Unifi Pi builds.
 ```
 apt-get update -y
 apt-get upgrade -y
