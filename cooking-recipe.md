@@ -9,7 +9,7 @@ apt-get install webmin --install-recommends -y
 apt-get install ca-certificates curl -y
 curl -sO https://get.glennr.nl/unifi/install/install_latest/unifi-latest.sh && bash unifi-latest.sh
 ```
-This JSON snippet is used to add the menu-Options to Webmin
+This JSON snippet is used to add the menu-options to Webmin
 ```
 {
  "extra" : [
